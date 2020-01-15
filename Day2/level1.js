@@ -1,1 +1,1 @@
-challenge = '30 Days Of JavaScript'
+let challenge = '30 Days Of JavaScript'
