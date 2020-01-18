@@ -1,3 +1,4 @@
+//level1
 console.log(challenge) 
 console.log(challenge.length)
 console.log(challenge.toUpperCase())
@@ -18,6 +19,24 @@ console.log(cause.search('because'))
 console.log(challenge.trim())
 console.log(challenge.startsWith('30'))
 console.log(challenge.endsWith('JavaScript'))
-console.log(challenge.match('a'))
+console.log(challenge.match(/a/ig))
 console.log(firstPart.concat(' ', secondPart))
 console.log(challenge.repeat(2))
+
+//level2
+console.log(str)
+console.log(motherTeresa)
+console.log("python".match(/on/))
+console.log("jargon".match(/on/))
+console.log(Math.floor(Math.random()*(101)))
+console.log(Math.floor(Math.random()*(51)+50))
+console.log(Math.floor(Math.random()*(256)))
+console.log(Math.floor(Math.random()*('JavaScript'.length)))
+console.log('1 1 1 1 1\n2 1 2 4 8\n3 1 3 9 27\n4 1 4 16 64\n5 1 5 25 125')
+console.log((because.substr(0,30))+because.substr(54, because.length))
+
+//level3
+console.log(love.length)
+console.log(because.match(/because/gi))
+console.log(totalArray)
+console.log(totally)
